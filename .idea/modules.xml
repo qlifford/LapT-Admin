@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GKartAdmin.iml" filepath="$PROJECT_DIR$/.idea/modules/GKartAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GKartAdmin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GKartAdmin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GKartAdmin.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GKartAdmin.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GKartAdmin.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GKartAdmin.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GKartAdmin.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GKartAdmin.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
